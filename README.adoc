@@ -33,7 +33,7 @@
 
 = Examples
 
-The goal if this repo is to get everyone on the same page with level of knowledge.
+The goal of this repo is to get everyone on the same page with level of knowledge.
 
 If you know something, share it!
 
